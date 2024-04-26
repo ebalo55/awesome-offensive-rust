@@ -70,7 +70,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 - [Goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust.
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - Ripgrep recursively searches directories for a regex pattern while respecting your gitignore.
-- [Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware development and for low level stuffs.
+- [Rust for Malware Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware development and for low level stuffs.
 
 ## Useful Libraries
 
