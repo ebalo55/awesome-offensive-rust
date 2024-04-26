@@ -44,7 +44,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ADPT](https://github.com/Kudaes/ADPT) - DLL proxying for lazy people.
 - [DInvoke_rs](https://github.com/Kudaes/DInvoke_rs) - Dynamically invoke arbitrary unmanaged code.
 - [Dumpy](https://github.com/Kudaes/Dumpy) - Reuse open handles to dynamically dump LSASS.
-- [Bin-Finder](https://github.com/Kudaes/Bin-Finder) - Detect EDR's exceptions by inspecting processes' loaded modules.
+- [Bin Finder](https://github.com/Kudaes/Bin-Finder) - Detect EDR's exceptions by inspecting processes' loaded modules.
 - [Shelter](https://github.com/Kudaes/Shelter) - ROP-based sleep obfuscation to evade memory scanners.
 - [Unwinder](https://github.com/Kudaes/Unwinder) - Call stack spoofing for Rust.
 - [RustChain](https://github.com/Kudaes/RustChain) - Hide memory artifacts using ROP and hardware breakpoints.
@@ -63,7 +63,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Cerbero](https://github.com/zer1t0/cerbero) - Kerberos protocol attacker.
 - [RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust.
 - [Feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
-- [Offensive-Rust](https://github.com/winsecurity/Offensive-Rust) - A collection of offensive security tools written in Rust.
+- [Offensive Rust](https://github.com/winsecurity/Offensive-Rust) - A collection of offensive security tools written in Rust.
 - [OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [RustScan](https://github.com/RustScan/RustScan) - The Modern Port Scanner.
