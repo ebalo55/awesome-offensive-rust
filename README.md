@@ -25,9 +25,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Articles
 
-> Articles about Rust language used for offensive security & red teaming.
-> 
-> ... Coming soon
+- [Coffee: A COFF loader made in Rust](https://labs.hakaioffsec.com/coffee-a-coff-loader-made-in-rust/)
 
 ## Books
 
