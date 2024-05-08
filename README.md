@@ -26,6 +26,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Articles
 
 - [Coffee: A COFF loader made in Rust](https://labs.hakaioffsec.com/coffee-a-coff-loader-made-in-rust/)
+- [Rasta Mouse Custom Beacon Artifacts](https://rastamouse.me/custom-beacon-artifacts/)
 
 ## Books
 
