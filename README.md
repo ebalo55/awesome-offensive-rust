@@ -25,9 +25,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Articles
 
-> Articles about Rust language used for offensive security & red teaming.
-> 
-> ... Coming soon
+- [Rasta Mouse Custom Beacon Artifacts](https://rastamouse.me/custom-beacon-artifacts/)
 
 ## Books
 
