@@ -27,6 +27,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [Coffee: A COFF loader made in Rust](https://labs.hakaioffsec.com/coffee-a-coff-loader-made-in-rust/)
 - [Rasta Mouse Custom Beacon Artifacts](https://rastamouse.me/custom-beacon-artifacts/)
+- [Writing Sliver C2 Extensions in Rust](https://blog.paradoxis.nl/writing-sliver-c2-extensions-in-rust-a95f620266de)
 
 ## Books
 
@@ -88,6 +89,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Scrying](https://github.com/nccgroup/scrying) - A tool for collecting RDP, web and VNC screenshots all in one place.
 - [X8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
+- [Legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.
+- [Rust Syscall](https://github.com/janoglezcampos/rust_syscalls) - Single stub direct and indirect syscalling with runtime SSN resolving for windows.
+- [GhostDriver](https://github.com/BlackSnufkin/GhostDriver) - GhostDriver is a Rust-built AV killer tool using BYOVD.
+- [NovaLdr](https://github.com/BlackSnufkin/NovaLdr.git) - Threadless Module Stomping In Rust with some features (In memory of those murdered in the Nova party massacre).
 
 
 ## Useful Libraries
