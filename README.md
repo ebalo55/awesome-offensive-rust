@@ -9,15 +9,15 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Contents
 
 - [Awesome Offensive Rust](#awesome-offensive-rust-)
-    - [Contents](#contents)
-    - [Community](#communities)
-    - [Articles](#articles)
-    - [Boilerplates](#boilerplates)
-    - [Books](#books)
-    - [Projects](#projects)
-    - [Useful Libraries](#useful-libraries)
-    - [Contributing](#contributing)
-    - [License](#license)
+  - [Contents](#contents)
+  - [Community](#communities)
+  - [Articles](#articles)
+  - [Boilerplates](#boilerplates)
+  - [Books](#books)
+  - [Projects](#projects)
+  - [Useful Libraries](#useful-libraries)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Communities
 
@@ -37,7 +37,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Boilerplates
 
 > Boilerplates for Rust language used for offensive security & red teaming.
-> 
+>
 > ... Coming soon
 
 ## Projects
@@ -83,6 +83,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [RustHollow](https://github.com/Kudaes/RustHollow) - Inject a shellcode in a remote process using Process Hollowing.
 - [RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust.
 - [Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent shellcode template for Windows in Rust.
+- [Rustic64Shell](https://github.com/safedv/Rustic64Shell) - 64-bit, position-independent reverse tcp shell, built in Rust for Windows.
 - [RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [RustScan](https://github.com/RustScan/RustScan) - The Modern Port Scanner.
 - [Rusty Hog](https://github.com/newrelic/rusty-hog) - A suite of secret scanners built in Rust for performance. Based on TruffleHog.
@@ -95,7 +96,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Venom-rs](https://github.com/memN0ps/venom-rs) - Rusty Injection - Shellcode Reflective DLL Injection (sRDI) in Rust (Codename: Venom).
 - [WStunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available.
 - [X8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
-
 
 ## Useful Libraries
 
