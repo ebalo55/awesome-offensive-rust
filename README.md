@@ -50,6 +50,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Crabby](https://github.com/ebalo55/crabby) - WebShell for Red Teams, just easily.
 - [CustomEntryPoint](https://github.com/Kudaes/CustomEntryPoint) - Select any exported function in a dll as the new dll's entry point.
 - [DInvoke_rs](https://github.com/Kudaes/DInvoke_rs) - Dynamically invoke arbitrary unmanaged code.
+- [Dog](https://github.com/ogham/dog) -  A command-line DNS client written in rust. Dig alternative.
 - [Dumpy](https://github.com/Kudaes/Dumpy) - Reuse open handles to dynamically dump LSASS.
 - [Eagle-rs](https://github.com/memN0ps/eagle-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust (Codename: Eagle).
 - [EPI](https://github.com/Kudaes/EPI) - Threadless Process Injection through entry point hijacking.
