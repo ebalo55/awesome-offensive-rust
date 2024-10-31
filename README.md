@@ -50,7 +50,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Crabby](https://github.com/ebalo55/crabby) - WebShell for Red Teams, just easily.
 - [CustomEntryPoint](https://github.com/Kudaes/CustomEntryPoint) - Select any exported function in a dll as the new dll's entry point.
 - [DInvoke_rs](https://github.com/Kudaes/DInvoke_rs) - Dynamically invoke arbitrary unmanaged code.
-- [Dog](https://github.com/ogham/dog) -  A command-line DNS client written in rust. Dig alternative.
+- [Dog](https://github.com/ogham/dog) - A command-line DNS client written in rust. Dig alternative.
 - [Dumpy](https://github.com/Kudaes/Dumpy) - Reuse open handles to dynamically dump LSASS.
 - [Eagle-rs](https://github.com/memN0ps/eagle-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust (Codename: Eagle).
 - [EPI](https://github.com/Kudaes/EPI) - Threadless Process Injection through entry point hijacking.
@@ -85,9 +85,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust.
 - [Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent shellcode template for Windows in Rust.
 - [Rustic64Shell](https://github.com/safedv/Rustic64Shell) - 64-bit, position-independent reverse tcp shell, built in Rust for Windows.
+- [RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It can be compiled as shellcode (PIC), supports XOR encryption, and remote file transmission.
 - [RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [RustScan](https://github.com/RustScan/RustScan) - The Modern Port Scanner.
 - [Rusty Hog](https://github.com/newrelic/rusty-hog) - A suite of secret scanners built in Rust for performance. Based on TruffleHog.
+- [RustVEHSyscalls](https://github.com/safedv/RustVEHSyscalls) - Rust port of LayeredSyscall, designed to perform indirect syscalls while generating legitimate API call stack frames by abusing Vectored Exception Handling (VEH) to bypass user-land EDR hooks in Windows.
 - [Scrying](https://github.com/nccgroup/scrying) - A tool for collecting RDP, web and VNC screenshots all in one place.
 - [Shelter](https://github.com/Kudaes/Shelter) - ROP-based sleep obfuscation to evade memory scanners.
 - [Skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
