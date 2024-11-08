@@ -63,6 +63,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Haylxon](https://github.com/pwnwriter/haylxon) - Blazing-fast tool to grab screenshots of your domain list right from terminal.
 - [Hrekt](https://github.com/ethicalhackingplayground/hrekt) - A really fast http prober.
 - [Illusion-rs](https://github.com/memN0ps/illusion-rs) - Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion).
+- [IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP).
 - [Legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.
 - [Lorsrf](https://github.com/knassar702/lorsrf) - Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load.
 - [Matrix-rs](https://github.com/memN0ps/matrix-rs) - Rusty Hypervisor - Windows Blue Pill Type-2 Hypervisor in Rust (Codename: Matrix)
