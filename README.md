@@ -87,6 +87,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Rustic64](https://github.com/safedv/Rustic64) - 64-bit, position-independent shellcode template for Windows in Rust.
 - [Rustic64Shell](https://github.com/safedv/Rustic64Shell) - 64-bit, position-independent reverse tcp shell, built in Rust for Windows.
 - [RustiveDump](https://github.com/safedv/RustiveDump) - LSASS memory dumper using only NTAPIs, creating a minimal minidump, built in Rust with no_std and independent of the C runtime (CRT). It can be compiled as shellcode (PIC), supports XOR encryption, and remote file transmission.
+- [RustPacker](https://github.com/Nariod/RustPacker) - Template-based shellcode packer written in Rust, with indirect syscall support. Made with <3 for pentesters.
 - [RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [RustScan](https://github.com/RustScan/RustScan) - The Modern Port Scanner.
 - [Rusty Hog](https://github.com/newrelic/rusty-hog) - A suite of secret scanners built in Rust for performance. Based on TruffleHog.
