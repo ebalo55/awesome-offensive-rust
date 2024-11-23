@@ -26,6 +26,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Articles
 
 - [Coffee: A COFF loader made in Rust](https://labs.hakaioffsec.com/coffee-a-coff-loader-made-in-rust/)
+- [Exploring RustiveDump](https://medium.com/purple-team/exploring-rustivedump-03c7a4957188)
 - [PIC shellcode: The Rust way](https://medium.com/purple-team/pic-shellcode-the-rust-way-4f629fb56009)
 - [Rasta Mouse Custom Beacon Artifacts](https://rastamouse.me/custom-beacon-artifacts/)
 - [Writing Sliver C2 Extensions in Rust](https://blog.paradoxis.nl/writing-sliver-c2-extensions-in-rust-a95f620266de)
