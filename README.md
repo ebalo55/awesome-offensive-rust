@@ -94,6 +94,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Rusty Hog](https://github.com/newrelic/rusty-hog) - A suite of secret scanners built in Rust for performance. Based on TruffleHog.
 - [RustVEHSyscalls](https://github.com/safedv/RustVEHSyscalls) - Rust port of LayeredSyscall, designed to perform indirect syscalls while generating legitimate API call stack frames by abusing Vectored Exception Handling (VEH) to bypass user-land EDR hooks in Windows.
 - [Scrying](https://github.com/nccgroup/scrying) - A tool for collecting RDP, web and VNC screenshots all in one place.
+- [Shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust.
 - [Shelter](https://github.com/Kudaes/Shelter) - ROP-based sleep obfuscation to evade memory scanners.
 - [Skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [Sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
@@ -107,6 +108,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
 - [Litcrypt](https://github.com/anvie/litcrypt.rs) - A Rust compiler plugin to encrypt string literal at compile time.
+- [Rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust.
 
 ## Contributing
 
