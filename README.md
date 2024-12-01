@@ -54,6 +54,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Dog](https://github.com/ogham/dog) - A command-line DNS client written in rust. Dig alternative.
 - [Dumpy](https://github.com/Kudaes/Dumpy) - Reuse open handles to dynamically dump LSASS.
 - [Eagle-rs](https://github.com/memN0ps/eagle-rs) - Rusty Rootkit - Windows Kernel Rookit in Rust (Codename: Eagle).
+- [Eclipse](https://github.com/Kudaes/Eclipse) - Activation Context Hijack to load and run an arbitrary DLL in any desired process.
 - [EPI](https://github.com/Kudaes/EPI) - Threadless Process Injection through entry point hijacking.
 - [Feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [Fiber](https://github.com/Kudaes/Fiber) - Using fibers to run in-memory code.
@@ -65,6 +66,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Hrekt](https://github.com/ethicalhackingplayground/hrekt) - A really fast http prober.
 - [Illusion-rs](https://github.com/memN0ps/illusion-rs) - Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion).
 - [IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP).
+- [JoJoLoader](https://github.com/Pizz33/JoJoLoader) - Help Redteam members generate Evasive Anti-virus software Trojan.
 - [Legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.
 - [Lorsrf](https://github.com/knassar702/lorsrf) - Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load.
 - [Matrix-rs](https://github.com/memN0ps/matrix-rs) - Rusty Hypervisor - Windows Blue Pill Type-2 Hypervisor in Rust (Codename: Matrix)
