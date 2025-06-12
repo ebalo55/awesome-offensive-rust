@@ -1,12 +1,13 @@
 # Awesome Offensive Rust [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<!-- GitAds-Verify: SB148Q99C7JBDTRPX1VRQFPYQQYFR4WQ -->
-
 <img src="https://github.com/ebalo55/crabby/raw/main/.assets/crab.png" align="right" width="250">
 
 > Curated list of resources about Rust language used for offensive security & red teaming.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ebalo55/awesome-offensive-rust@github)](https://gitads.dev/v1/ad-track?source=ebalo55/awesome-offensive-rust@github)
 
 ## Contents
 
