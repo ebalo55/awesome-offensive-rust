@@ -6,9 +6,6 @@
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ebalo55/awesome-offensive-rust@github)](https://gitads.dev/v1/ad-track?source=ebalo55/awesome-offensive-rust@github)
-
 ## Contents
 
 - [Awesome Offensive Rust](#awesome-offensive-rust-)
@@ -21,6 +18,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Useful Libraries](#useful-libraries)
   - [Contributing](#contributing)
   - [License](#license)
+ 
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ebalo55/awesome-offensive-rust@github)](https://gitads.dev/v1/ad-track?source=ebalo55/awesome-offensive-rust@github)
 
 ## Communities
 
